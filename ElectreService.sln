@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectreService", "ElectreService\ElectreService.csproj", "{3CB11A7A-D721-4B18-AFF0-86ED5FED9EEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CB11A7A-D721-4B18-AFF0-86ED5FED9EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB11A7A-D721-4B18-AFF0-86ED5FED9EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB11A7A-D721-4B18-AFF0-86ED5FED9EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB11A7A-D721-4B18-AFF0-86ED5FED9EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41DF4432-64D5-44E2-AAD8-18B1D935C0E2}
+	EndGlobalSection
+EndGlobal
